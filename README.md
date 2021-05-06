@@ -1,2 +1,0 @@
-# leza
-2pshk
